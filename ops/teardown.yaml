@@ -1,0 +1,28 @@
+- hosts: 127.0.0.1
+  connection: local
+  gather_facts: False
+
+  vars_files:
+    - aws_vars.yaml
+
+  tasks:
+    - name: Get a list of running ec2 instances
+      ec2_instance_facts:
+        region: "{{ region }}"
+        filters:
+            "tag:process_type": master
+      register: running_instances
+
+
+    - name: Terminate master instances
+      ec2:
+        instance_id: "{{ item.instance_id }}"
+        state: absent
+        region: "{{ region }}"
+        wait: yes
+      with_items: "{{ running_instances.instances }}"
+
+    - name: Remove security group
+      ec2_group:
+        name: "{{ master_security_group_name }}"
+        state: absent

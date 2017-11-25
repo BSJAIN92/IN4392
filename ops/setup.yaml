@@ -1,0 +1,36 @@
+# {SB}: Remember to change the id (EC2 idempotency token) in vars each time setup is run
+- hosts: 127.0.0.1
+  connection: local
+  gather_facts: False
+
+  vars_files:
+    - aws_vars.yaml
+
+  tasks:
+    - name: Create security group
+      ec2_group:
+        name: "{{ master_security_group_name }}"
+        description: Expose master nodes
+        state: present
+        rules:
+          - proto: tcp
+            ports: 80
+            cidr_ip: 0.0.0.0/0
+          - proto: tcp
+            ports: 22
+            cidr_ip: 0.0.0.0/0
+      register: large_lab_master_security_group
+
+    - name: Start master ec2 instance
+      ec2:
+        id: "{{ instance_id }}"
+        image: ami-cd0f5cb6
+        region: "{{ region }}"
+        instance_type: t2.nano
+        exact_count: 1
+        group_id: "{{large_lab_master_security_group.group_id}}"
+        instance_tags:
+          process_type: master
+        count_tag:
+          Name: master
+        wait: yes

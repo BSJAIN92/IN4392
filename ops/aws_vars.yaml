@@ -1,0 +1,5 @@
+---
+# EC2 idempotency token (Change this everytime setup is run)
+instance_id: large-lab-master-3
+master_security_group_name: large-lab-master
+region: us-east-1

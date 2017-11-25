@@ -1,0 +1,14 @@
+{
+  "name": "large-lab-reports-logs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment": "^2.19.1",
+    "ramda": "^0.25.0",
+    "typescript": "^2.6.1"
+  }
+}

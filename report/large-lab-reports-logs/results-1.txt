@@ -1,0 +1,48 @@
+------- PROCESSING TIME --------
+C3-E2.5  372.347  seconds
+C3-E5.0  599.254  seconds
+C3-E7.5  772.459  seconds
+
+SE0-E2.5  272.241  seconds
+SE0-E5.0  575.742  seconds
+SE0-E7.5  910.306  seconds
+
+SE7-E2.5  343.051  seconds
+SE7-E5.0  468.092  seconds
+SE7-E7.5  673.886  seconds
+------- Responsiveness --------
+C3-E2.5  5034.324  seconds
+C3-E5.0  2315.279  seconds
+C3-E7.5  1673.397  seconds
+
+SE0-E2.5  4591.992  seconds
+SE0-E5.0  3099.066  seconds
+SE0-E7.5  3136.872  seconds
+
+SE7-E2.5  4982.711  seconds
+SE7-E5.0  5345.315  seconds
+SE7-E7.5  5705.837  seconds
+------- TotalInstanceTime --------
+C3-E2.5  0  seconds
+C3-E5.0  0  seconds
+C3-E7.5  0  seconds
+
+SE0-E2.5  3495.022  seconds
+SE0-E5.0  5535.934  seconds
+SE0-E7.5  7812.347  seconds
+
+SE7-E2.5  3524.582  seconds
+SE7-E5.0  3648.898  seconds
+SE7-E7.5  5048.701  seconds
+------- Utilization --------
+C3-E2.5  Infinity
+C3-E5.0  Infinity
+C3-E7.5  Infinity
+
+SE0-E2.5  0.07789393028141167
+SE0-E5.0  0.10400087862319168
+SE0-E7.5  0.11652144995607594
+
+SE7-E2.5  0.09733097428290788
+SE7-E5.0  0.12828311451841076
+SE7-E7.5  0.13347710628932075

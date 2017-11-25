@@ -1,0 +1,2965 @@
+{
+  "finishedTasks": [
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/122/LC08_L1GT_225122_20171024_20171025_01_RT/LC08_L1GT_225122_20171024_20171025_01_RT_B4.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:31:51.520Z",
+      "retries": 0,
+      "id": "f6068b13-98d7-4d2b-9b8b-9ce5936c5e37",
+      "executeStartTime": "2017-11-01T23:32:35.815Z",
+      "instanceId": "i-0ba451f6e580a174f",
+      "finishTime": "2017-11-01T23:32:45.342Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/122/LC08_L1GT_225122_20171024_20171025_01_RT/LC08_L1GT_225122_20171024_20171025_01_RT_B5.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:31:53.018Z",
+      "retries": 0,
+      "id": "98c83542-66f3-413e-abd5-c74c9bc553ed",
+      "executeStartTime": "2017-11-01T23:32:45.588Z",
+      "instanceId": "i-0ba451f6e580a174f",
+      "finishTime": "2017-11-01T23:32:54.878Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/121/LC08_L1GT_225121_20171024_20171024_01_RT/LC08_L1GT_225121_20171024_20171024_01_RT_B5.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:31:58.986Z",
+      "retries": 0,
+      "id": "fb7c7611-0379-47f0-91e5-7f6365c77dae",
+      "executeStartTime": "2017-11-01T23:32:58.468Z",
+      "instanceId": "i-0ba451f6e580a174f",
+      "finishTime": "2017-11-01T23:33:07.657Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/120/LC08_L1GT_225120_20171024_20171025_01_RT/LC08_L1GT_225120_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:14.349Z",
+      "retries": 0,
+      "id": "c5ebc37d-c70c-4111-9529-cd92c4eaafe8",
+      "executeStartTime": "2017-11-01T23:33:11.626Z",
+      "instanceId": "i-0ba451f6e580a174f",
+      "finishTime": "2017-11-01T23:33:20.275Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/121/LC08_L1GT_225121_20171024_20171024_01_RT/LC08_L1GT_225121_20171024_20171024_01_RT_B4.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:09.544Z",
+      "retries": 0,
+      "id": "54ff94ac-f2e0-4644-8ca7-995d43310ccb",
+      "executeStartTime": "2017-11-01T23:33:06.625Z",
+      "instanceId": "i-08f76645da5c588d8",
+      "finishTime": "2017-11-01T23:33:21.645Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/120/LC08_L1GT_225120_20171024_20171025_01_RT/LC08_L1GT_225120_20171024_20171025_01_RT_B5.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:15.192Z",
+      "retries": 0,
+      "id": "ded9811b-cd00-4a52-ba19-ff8d212c1808",
+      "executeStartTime": "2017-11-01T23:33:11.628Z",
+      "instanceId": "i-083692959c56fc58a",
+      "finishTime": "2017-11-01T23:33:25.980Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/120/LC08_L1GT_225120_20171024_20171025_01_RT/LC08_L1GT_225120_20171024_20171025_01_RT_B1.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:22.453Z",
+      "retries": 0,
+      "id": "6cc81f52-02ae-442d-b4d7-eec32f4ba09e",
+      "executeStartTime": "2017-11-01T23:33:19.449Z",
+      "instanceId": "i-06ce7cb9a6e6672f3",
+      "finishTime": "2017-11-01T23:33:34.522Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/109/LC08_L1GT_225109_20171024_20171024_01_RT/LC08_L1GT_225109_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:25.376Z",
+      "retries": 0,
+      "id": "313b0cff-160c-4b1f-a1c8-03ca807d539c",
+      "executeStartTime": "2017-11-01T23:33:24.450Z",
+      "instanceId": "i-01be58857455e285f",
+      "finishTime": "2017-11-01T23:33:40.348Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/108/LC08_L1GT_225108_20171024_20171024_01_RT/LC08_L1GT_225108_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:28.197Z",
+      "retries": 0,
+      "id": "32db2141-43bb-4954-a4b1-2d44a05df61c",
+      "executeStartTime": "2017-11-01T23:33:24.451Z",
+      "instanceId": "i-042f6a898e1689a8d",
+      "finishTime": "2017-11-01T23:33:43.910Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/108/LC08_L1GT_225108_20171024_20171024_01_RT/LC08_L1GT_225108_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:29.812Z",
+      "retries": 0,
+      "id": "158c0175-3309-48db-b838-b9dce31391d7",
+      "executeStartTime": "2017-11-01T23:33:27.879Z",
+      "instanceId": "i-083692959c56fc58a",
+      "finishTime": "2017-11-01T23:33:43.986Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/098/LC08_L1TP_225098_20171024_20171025_01_RT/LC08_L1TP_225098_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:47.418Z",
+      "retries": 0,
+      "id": "b5245977-cdc2-4d7b-84de-aad5d63f3dee",
+      "executeStartTime": "2017-11-01T23:33:36.583Z",
+      "instanceId": "i-03d9dc071bf1b91ee",
+      "finishTime": "2017-11-01T23:33:50.909Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/099/LC08_L1TP_225099_20171024_20171024_01_RT/LC08_L1TP_225099_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:44.588Z",
+      "retries": 0,
+      "id": "6c4e4bb6-fc47-48bb-9e57-bc3304499f4a",
+      "executeStartTime": "2017-11-01T23:33:36.582Z",
+      "instanceId": "i-08f76645da5c588d8",
+      "finishTime": "2017-11-01T23:33:50.972Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/087/LC08_L1TP_225087_20171024_20171025_01_RT/LC08_L1TP_225087_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:05.625Z",
+      "retries": 0,
+      "id": "51bfce1d-e6af-4f91-9a01-46e39e02fdf9",
+      "executeStartTime": "2017-11-01T23:33:36.584Z",
+      "instanceId": "i-084648ec3de8c7ac1",
+      "finishTime": "2017-11-01T23:33:51.066Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/087/LC08_L1TP_225087_20171024_20171025_01_RT/LC08_L1TP_225087_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:13.748Z",
+      "retries": 0,
+      "id": "751997ba-ab28-4238-b425-e1ae18d68e35",
+      "executeStartTime": "2017-11-01T23:33:41.584Z",
+      "instanceId": "i-028a5b23d8bb5a1a6",
+      "finishTime": "2017-11-01T23:33:52.490Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/085/LC08_L1TP_225085_20171024_20171025_01_RT/LC08_L1TP_225085_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:14.817Z",
+      "retries": 0,
+      "id": "7b117f57-c10f-4f00-a534-8f3cb02f9336",
+      "executeStartTime": "2017-11-01T23:33:43.629Z",
+      "instanceId": "i-0aee7fb247107c212",
+      "finishTime": "2017-11-01T23:33:56.189Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/099/LC08_L1TP_225099_20171024_20171024_01_RT/LC08_L1TP_225099_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:47.073Z",
+      "retries": 0,
+      "id": "92824f2a-b278-432f-80c6-a7a116ba56d9",
+      "executeStartTime": "2017-11-01T23:33:36.582Z",
+      "instanceId": "i-06ce7cb9a6e6672f3",
+      "finishTime": "2017-11-01T23:33:57.471Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/084/LC08_L1TP_225084_20171024_20171025_01_RT/LC08_L1TP_225084_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:26.878Z",
+      "retries": 0,
+      "id": "edf6826e-03fd-4c3a-a9ad-803c148d9e49",
+      "executeStartTime": "2017-11-01T23:33:48.631Z",
+      "instanceId": "i-04ff8a90c19b8667c",
+      "finishTime": "2017-11-01T23:33:59.697Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/085/LC08_L1TP_225085_20171024_20171025_01_RT/LC08_L1TP_225085_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:18.122Z",
+      "retries": 0,
+      "id": "4ef130b9-72ea-45fd-8452-3f1710f9b708",
+      "executeStartTime": "2017-11-01T23:33:48.629Z",
+      "instanceId": "i-042f6a898e1689a8d",
+      "finishTime": "2017-11-01T23:34:01.186Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/085/LC08_L1TP_225085_20171024_20171025_01_RT/LC08_L1TP_225085_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:18.447Z",
+      "retries": 0,
+      "id": "2fc58f99-272d-4770-8cc4-5eed7f78dc72",
+      "executeStartTime": "2017-11-01T23:33:48.630Z",
+      "instanceId": "i-068a479037dc32cf6",
+      "finishTime": "2017-11-01T23:34:01.410Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/084/LC08_L1TP_225084_20171024_20171025_01_RT/LC08_L1TP_225084_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:42.628Z",
+      "retries": 0,
+      "id": "68ae858f-2a9c-4ee3-b8c7-fbb1db6c5dd5",
+      "executeStartTime": "2017-11-01T23:33:53.632Z",
+      "instanceId": "i-028a5b23d8bb5a1a6",
+      "finishTime": "2017-11-01T23:34:02.151Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/084/LC08_L1TP_225084_20171024_20171025_01_RT/LC08_L1TP_225084_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:30.580Z",
+      "retries": 0,
+      "id": "7cff3da5-80a6-40c7-ac1f-e41aabdbb253",
+      "executeStartTime": "2017-11-01T23:33:53.632Z",
+      "instanceId": "i-084648ec3de8c7ac1",
+      "finishTime": "2017-11-01T23:34:06.611Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/083/LC08_L1TP_225083_20171024_20171025_01_RT/LC08_L1TP_225083_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:33:57.922Z",
+      "retries": 0,
+      "id": "3848e8f3-8d6f-4e8f-ba39-32fc1ca6983a",
+      "executeStartTime": "2017-11-01T23:33:58.633Z",
+      "instanceId": "i-06ce7cb9a6e6672f3",
+      "finishTime": "2017-11-01T23:34:11.765Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/083/LC08_L1TP_225083_20171024_20171025_01_RT/LC08_L1TP_225083_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:03.630Z",
+      "retries": 0,
+      "id": "a45b129e-2e20-4ced-b6f3-d1fc62583a14",
+      "executeStartTime": "2017-11-01T23:34:03.924Z",
+      "instanceId": "i-028a5b23d8bb5a1a6",
+      "finishTime": "2017-11-01T23:34:22.362Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/087/LC08_L1TP_225087_20171024_20171025_01_RT/LC08_L1TP_225087_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:32:52.466Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:34:03.923Z",
+      "instanceId": "i-011d28c04060370da",
+      "id": "648d6bea-79cb-4487-a9a3-8d4b1e9fedb1",
+      "finishTime": "2017-11-01T23:34:22.662Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/082/LC08_L1TP_225082_20171024_20171025_01_RT/LC08_L1TP_225082_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:03.716Z",
+      "retries": 0,
+      "id": "7fdf57ff-8c74-4cd0-a068-d539038a1ce1",
+      "executeStartTime": "2017-11-01T23:34:03.924Z",
+      "instanceId": "i-068a479037dc32cf6",
+      "finishTime": "2017-11-01T23:34:26.370Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/082/LC08_L1TP_225082_20171024_20171025_01_RT/LC08_L1TP_225082_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:03.935Z",
+      "retries": 0,
+      "id": "6cc2801f-393c-4e7f-a160-248c136a61c2",
+      "executeStartTime": "2017-11-01T23:34:23.846Z",
+      "instanceId": "i-028a5b23d8bb5a1a6",
+      "finishTime": "2017-11-01T23:34:37.389Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/083/LC08_L1TP_225083_20171024_20171025_01_RT/LC08_L1TP_225083_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:05.190Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:34:54.196Z",
+      "instanceId": "i-068a479037dc32cf6",
+      "id": "dc0a58b0-4548-4524-b8e4-43b1ca555002",
+      "finishTime": "2017-11-01T23:35:13.585Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/082/LC08_L1TP_225082_20171024_20171025_01_RT/LC08_L1TP_225082_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:05.408Z",
+      "retries": 0,
+      "id": "767aae4f-0df9-45ff-9dce-f9f0acde61fb",
+      "executeStartTime": "2017-11-01T23:35:15.057Z",
+      "instanceId": "i-068a479037dc32cf6",
+      "finishTime": "2017-11-01T23:35:30.537Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/081/LC08_L1TP_225081_20171024_20171025_01_RT/LC08_L1TP_225081_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:22.845Z",
+      "retries": 0,
+      "id": "9a2bb1b4-1069-4d1e-b7ef-88b95b195a91",
+      "executeStartTime": "2017-11-01T23:35:32.941Z",
+      "instanceId": "i-068a479037dc32cf6",
+      "finishTime": "2017-11-01T23:35:44.554Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/081/LC08_L1TP_225081_20171024_20171025_01_RT/LC08_L1TP_225081_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:25.749Z",
+      "retries": 0,
+      "id": "8bc89191-7e30-423c-b445-ec95a2f021c9",
+      "executeStartTime": "2017-11-01T23:35:39.106Z",
+      "instanceId": "i-0911957a0e49ecf93",
+      "finishTime": "2017-11-01T23:35:52.020Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/081/LC08_L1TP_225081_20171024_20171025_01_RT/LC08_L1TP_225081_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:32.005Z",
+      "retries": 0,
+      "id": "aad53364-407b-4be0-859a-f2ec69f91aeb",
+      "executeStartTime": "2017-11-01T23:35:43.164Z",
+      "instanceId": "i-0978db48b97804c8e",
+      "finishTime": "2017-11-01T23:35:56.350Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/080/LC08_L1TP_225080_20171024_20171025_01_RT/LC08_L1TP_225080_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:33.025Z",
+      "retries": 0,
+      "id": "fca1013c-6718-4358-87ec-5b0eea857418",
+      "executeStartTime": "2017-11-01T23:35:48.166Z",
+      "instanceId": "i-0e0fc3362c22949af",
+      "finishTime": "2017-11-01T23:36:00.600Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/080/LC08_L1TP_225080_20171024_20171025_01_RT/LC08_L1TP_225080_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:38.782Z",
+      "retries": 0,
+      "id": "938c969a-4c98-440a-bddd-eb18a5b6c1d5",
+      "executeStartTime": "2017-11-01T23:35:53.354Z",
+      "instanceId": "i-0911957a0e49ecf93",
+      "finishTime": "2017-11-01T23:36:06.653Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/079/LC08_L1TP_225079_20171024_20171025_01_RT/LC08_L1TP_225079_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:38.920Z",
+      "retries": 0,
+      "id": "81b90af2-76bc-4e6f-b547-a8f4f4d8e9bf",
+      "executeStartTime": "2017-11-01T23:35:53.355Z",
+      "instanceId": "i-075944913f1328858",
+      "finishTime": "2017-11-01T23:36:07.681Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/079/LC08_L1TP_225079_20171024_20171025_01_RT/LC08_L1TP_225079_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:52.763Z",
+      "retries": 0,
+      "id": "9d9a5c5e-c643-4edc-81aa-b0cee1d5bed3",
+      "executeStartTime": "2017-11-01T23:35:58.357Z",
+      "instanceId": "i-068a479037dc32cf6",
+      "finishTime": "2017-11-01T23:36:11.058Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/079/LC08_L1TP_225079_20171024_20171025_01_RT/LC08_L1TP_225079_20171024_20171025_01_RT_B1.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:34:53.195Z",
+      "retries": 0,
+      "id": "ba5056e3-934b-477a-a19e-aaab084af1e4",
+      "executeStartTime": "2017-11-01T23:35:58.357Z",
+      "instanceId": "i-0978db48b97804c8e",
+      "finishTime": "2017-11-01T23:36:12.561Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/078/LC08_L1TP_225078_20171024_20171025_01_RT/LC08_L1TP_225078_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:01.868Z",
+      "retries": 0,
+      "id": "a1d99cd2-8c0d-4638-ae51-41f59917e4f6",
+      "executeStartTime": "2017-11-01T23:36:03.357Z",
+      "instanceId": "i-0e0fc3362c22949af",
+      "finishTime": "2017-11-01T23:36:16.336Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/076/LC08_L1TP_225076_20171024_20171025_01_RT/LC08_L1TP_225076_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:19.946Z",
+      "retries": 0,
+      "id": "fd443dc4-5b16-4f92-8624-ec9a5fb78839",
+      "executeStartTime": "2017-11-01T23:36:08.361Z",
+      "instanceId": "i-00641bf9d9e9caba9",
+      "finishTime": "2017-11-01T23:36:21.878Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/076/LC08_L1TP_225076_20171024_20171025_01_RT/LC08_L1TP_225076_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:26.941Z",
+      "retries": 0,
+      "id": "930f70ec-6e2e-4e11-b0f0-328988656226",
+      "executeStartTime": "2017-11-01T23:36:08.361Z",
+      "instanceId": "i-0286c94f8d56785c7",
+      "finishTime": "2017-11-01T23:36:22.765Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/077/LC08_L1TP_225077_20171024_20171025_01_RT/LC08_L1TP_225077_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:14.056Z",
+      "retries": 0,
+      "id": "ad208b85-7f00-4cf6-a40e-68bb40c057c1",
+      "executeStartTime": "2017-11-01T23:36:08.360Z",
+      "instanceId": "i-0911957a0e49ecf93",
+      "finishTime": "2017-11-01T23:36:23.252Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/078/LC08_L1TP_225078_20171024_20171025_01_RT/LC08_L1TP_225078_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:11.791Z",
+      "retries": 0,
+      "id": "3a683bdc-e4aa-4471-9b75-ce8c3ad45501",
+      "executeStartTime": "2017-11-01T23:36:03.358Z",
+      "instanceId": "i-0455527028f2d2643",
+      "finishTime": "2017-11-01T23:36:23.944Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/077/LC08_L1TP_225077_20171024_20171025_01_RT/LC08_L1TP_225077_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:15.408Z",
+      "retries": 0,
+      "id": "3fecd419-c455-4d91-b4f9-ecbf72cda150",
+      "executeStartTime": "2017-11-01T23:36:08.360Z",
+      "instanceId": "i-075944913f1328858",
+      "finishTime": "2017-11-01T23:36:27.414Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/075/LC08_L1TP_225075_20171024_20171025_01_RT/LC08_L1TP_225075_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:33.105Z",
+      "retries": 0,
+      "id": "97dccc37-4d41-43ca-94e8-a3cb2bb954a1",
+      "executeStartTime": "2017-11-01T23:36:13.363Z",
+      "instanceId": "i-0978db48b97804c8e",
+      "finishTime": "2017-11-01T23:36:27.937Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/073/LC08_L1TP_225073_20171024_20171025_01_RT/LC08_L1TP_225073_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:42.163Z",
+      "retries": 0,
+      "id": "81722b8a-dcf1-45a9-b509-63d0fc500328",
+      "executeStartTime": "2017-11-01T23:36:18.364Z",
+      "instanceId": "i-0b4494080b0130f5d",
+      "finishTime": "2017-11-01T23:36:32.046Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/073/LC08_L1TP_225073_20171024_20171025_01_RT/LC08_L1TP_225073_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:48.924Z",
+      "retries": 0,
+      "id": "7458fa70-f457-459b-a3ba-3206d854c544",
+      "executeStartTime": "2017-11-01T23:36:23.365Z",
+      "instanceId": "i-0911957a0e49ecf93",
+      "finishTime": "2017-11-01T23:36:36.225Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/071/LC08_L1TP_225071_20171024_20171025_01_RT/LC08_L1TP_225071_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:52.354Z",
+      "retries": 0,
+      "id": "418cd50e-60a9-472a-a809-e38795534eb0",
+      "executeStartTime": "2017-11-01T23:36:23.366Z",
+      "instanceId": "i-00641bf9d9e9caba9",
+      "finishTime": "2017-11-01T23:36:37.480Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/073/LC08_L1TP_225073_20171024_20171025_01_RT/LC08_L1TP_225073_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:41.641Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:36:38.368Z",
+      "instanceId": "i-00641bf9d9e9caba9",
+      "id": "5d10ce74-ac8b-4eb7-8163-df9f9909a892",
+      "finishTime": "2017-11-01T23:36:51.197Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/075/LC08_L1TP_225075_20171024_20171025_01_RT/LC08_L1TP_225075_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:35:32.486Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:36:33.367Z",
+      "instanceId": "i-069950a496548e5d9",
+      "id": "313dd688-277c-4b41-ae2e-ac878d49b068",
+      "finishTime": "2017-11-01T23:36:51.922Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/070/LC08_L1TP_225070_20171024_20171025_01_RT/LC08_L1TP_225070_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:36:39.402Z",
+      "retries": 0,
+      "id": "a1493460-36c7-4be5-89d6-ddb4d364a27c",
+      "executeStartTime": "2017-11-01T23:36:40.405Z",
+      "instanceId": "i-018b776f9e805377e",
+      "finishTime": "2017-11-01T23:36:53.435Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/071/LC08_L1TP_225071_20171024_20171025_01_RT/LC08_L1TP_225071_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:36:38.048Z",
+      "retries": 0,
+      "id": "168e8b1a-fc00-4564-a787-c95f5217271b",
+      "executeStartTime": "2017-11-01T23:36:38.368Z",
+      "instanceId": "i-058c030cbc234eb1e",
+      "finishTime": "2017-11-01T23:36:53.927Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/071/LC08_L1TP_225071_20171024_20171025_01_RT/LC08_L1TP_225071_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:36:47.478Z",
+      "retries": 0,
+      "id": "cc40c0f9-92b6-4664-a758-9fc101d574e1",
+      "executeStartTime": "2017-11-01T23:36:53.479Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:37:14.287Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/070/LC08_L1TP_225070_20171024_20171025_01_RT/LC08_L1TP_225070_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:37:08.909Z",
+      "retries": 0,
+      "id": "38e5059f-ec0f-4381-aa54-5fbf45e616a7",
+      "executeStartTime": "2017-11-01T23:37:14.911Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:37:33.274Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/070/LC08_L1TP_225070_20171024_20171025_01_RT/LC08_L1TP_225070_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:37:26.714Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:38:03.590Z",
+      "instanceId": "i-069950a496548e5d9",
+      "id": "ae4bffa5-a93a-45ad-aa89-d116537da42f",
+      "finishTime": "2017-11-01T23:38:21.850Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/069/LC08_L1TP_225069_20171024_20171025_01_RT/LC08_L1TP_225069_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:37:44.964Z",
+      "retries": 0,
+      "id": "b85a5b01-02ee-4985-8c9f-eeb42dbba96a",
+      "executeStartTime": "2017-11-01T23:38:26.729Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:38:38.180Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/069/LC08_L1TP_225069_20171024_20171025_01_RT/LC08_L1TP_225069_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:37:55.899Z",
+      "retries": 0,
+      "id": "65cd6d6e-ebaa-4ece-a7a1-9c42a9d17c4f",
+      "executeStartTime": "2017-11-01T23:38:38.324Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:38:51.349Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/068/LC08_L1TP_225068_20171024_20171025_01_RT/LC08_L1TP_225068_20171024_20171025_01_RT_B2.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:37:57.590Z",
+      "retries": 0,
+      "id": "8676a004-261b-4c01-ac5f-fa266714268f",
+      "executeStartTime": "2017-11-01T23:38:52.005Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:39:01.662Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/068/LC08_L1TP_225068_20171024_20171025_01_RT/LC08_L1TP_225068_20171024_20171025_01_RT_B1.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:38:07.365Z",
+      "retries": 0,
+      "id": "89be1ad9-0dc6-4a7f-ac08-a0e564babe06",
+      "executeStartTime": "2017-11-01T23:39:02.926Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:39:10.689Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/067/LC08_L1TP_225067_20171024_20171025_01_RT/LC08_L1TP_225067_20171024_20171025_01_RT_B2.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:38:20.726Z",
+      "retries": 0,
+      "id": "69e4bcce-b7a6-4956-915f-b93d9133902e",
+      "executeStartTime": "2017-11-01T23:39:12.809Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:39:21.293Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/067/LC08_L1TP_225067_20171024_20171025_01_RT/LC08_L1TP_225067_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:38:28.873Z",
+      "retries": 0,
+      "id": "cdfaf329-897c-476e-a385-e6853ec33f8d",
+      "executeStartTime": "2017-11-01T23:39:23.660Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:39:31.274Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/067/LC08_L1TP_225067_20171024_20171025_01_RT/LC08_L1TP_225067_20171024_20171025_01_RT_B1.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:38:32.323Z",
+      "retries": 0,
+      "id": "63ae3eec-2aaf-4c27-baf3-d34aeb03b17a",
+      "executeStartTime": "2017-11-01T23:39:32.508Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:39:41.015Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/066/LC08_L1TP_225066_20171024_20171025_01_RT/LC08_L1TP_225066_20171024_20171025_01_RT_B2.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:38:46.845Z",
+      "retries": 0,
+      "id": "4d14a6d8-da46-4f1d-b3bb-decd98ebccf1",
+      "executeStartTime": "2017-11-01T23:39:42.799Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:39:50.715Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/066/LC08_L1TP_225066_20171024_20171025_01_RT/LC08_L1TP_225066_20171024_20171025_01_RT_B1.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:38:51.004Z",
+      "retries": 0,
+      "id": "a28ec3e2-3611-4aa1-a80c-49a18eaae42f",
+      "executeStartTime": "2017-11-01T23:39:52.801Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:40:00.753Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/064/LC08_L1TP_225064_20171024_20171025_01_RT/LC08_L1TP_225064_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:06.808Z",
+      "retries": 0,
+      "id": "a72433fd-bcbf-47de-9059-1340e3436962",
+      "executeStartTime": "2017-11-01T23:40:02.201Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:40:10.393Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/064/LC08_L1TP_225064_20171024_20171025_01_RT/LC08_L1TP_225064_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:01.926Z",
+      "retries": 0,
+      "id": "0fd0f698-cb1f-47c2-b31a-ab225773a9cc",
+      "executeStartTime": "2017-11-01T23:39:58.816Z",
+      "instanceId": "i-07deda1d4898b3bf2",
+      "finishTime": "2017-11-01T23:40:13.333Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/063/LC08_L1TP_225063_20171024_20171025_01_RT/LC08_L1TP_225063_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:17.658Z",
+      "retries": 0,
+      "id": "09764f76-2b12-4a93-9313-2dabcee928bf",
+      "executeStartTime": "2017-11-01T23:40:02.201Z",
+      "instanceId": "i-0992649d7f00e8d5d",
+      "finishTime": "2017-11-01T23:40:14.449Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/065/LC08_L1TP_225065_20171024_20171025_01_RT/LC08_L1TP_225065_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:38:58.484Z",
+      "retries": 0,
+      "id": "f185be09-f8d5-4030-8952-d53a49d0ccda",
+      "executeStartTime": "2017-11-01T23:39:56.242Z",
+      "instanceId": "i-096dca30d2d362399",
+      "finishTime": "2017-11-01T23:40:16.133Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/062/LC08_L1GT_225062_20171024_20171025_01_RT/LC08_L1GT_225062_20171024_20171025_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:26.505Z",
+      "retries": 0,
+      "id": "5ae513ef-780b-4260-8655-1515f5de3211",
+      "executeStartTime": "2017-11-01T23:40:07.203Z",
+      "instanceId": "i-0585e67be2175f2e3",
+      "finishTime": "2017-11-01T23:40:19.498Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/062/LC08_L1GT_225062_20171024_20171025_01_RT/LC08_L1GT_225062_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:33.907Z",
+      "retries": 0,
+      "id": "e4862f95-8639-4cde-90bc-3322500ca7f0",
+      "executeStartTime": "2017-11-01T23:40:14.211Z",
+      "instanceId": "i-050fef4c749eace17",
+      "finishTime": "2017-11-01T23:40:25.709Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/063/LC08_L1TP_225063_20171024_20171025_01_RT/LC08_L1TP_225063_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:32.227Z",
+      "retries": 0,
+      "id": "e42e69d2-dab3-410f-932d-5c091e473729",
+      "executeStartTime": "2017-11-01T23:40:14.211Z",
+      "instanceId": "i-07deda1d4898b3bf2",
+      "finishTime": "2017-11-01T23:40:28.365Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/062/LC08_L1GT_225062_20171024_20171025_01_RT/LC08_L1GT_225062_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:40.881Z",
+      "retries": 0,
+      "id": "58e7187c-05fa-46e6-8188-9da1663356cc",
+      "executeStartTime": "2017-11-01T23:40:23.375Z",
+      "instanceId": "i-069950a496548e5d9",
+      "finishTime": "2017-11-01T23:40:31.406Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/061/LC08_L1TP_225061_20171024_20171025_01_RT/LC08_L1TP_225061_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:41.798Z",
+      "retries": 0,
+      "id": "85ffc9f4-a639-424b-958f-ba876e95c783",
+      "executeStartTime": "2017-11-01T23:40:23.376Z",
+      "instanceId": "i-0585e67be2175f2e3",
+      "finishTime": "2017-11-01T23:40:36.748Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/061/LC08_L1TP_225061_20171024_20171025_01_RT/LC08_L1TP_225061_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:55.242Z",
+      "retries": 0,
+      "id": "b528960a-8021-44de-8c94-15db224baf75",
+      "executeStartTime": "2017-11-01T23:40:23.376Z",
+      "instanceId": "i-0ae97e01280b1e21b",
+      "finishTime": "2017-11-01T23:40:39.983Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/060/LC08_L1TP_225060_20171024_20171025_01_RT/LC08_L1TP_225060_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:39:57.811Z",
+      "retries": 0,
+      "id": "a55a5995-979c-48af-97f1-dfa6dbaca201",
+      "executeStartTime": "2017-11-01T23:40:28.378Z",
+      "instanceId": "i-07deda1d4898b3bf2",
+      "finishTime": "2017-11-01T23:40:42.437Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/059/LC08_L1TP_225059_20171024_20171025_01_RT/LC08_L1TP_225059_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:40:01.200Z",
+      "retries": 0,
+      "id": "e6dccba7-ae9d-401e-8f60-b0c65e259940",
+      "executeStartTime": "2017-11-01T23:40:33.379Z",
+      "instanceId": "i-00e5786435f9b8d3c",
+      "finishTime": "2017-11-01T23:40:46.602Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/033/LC08_L1GT_225033_20171024_20171024_01_RT/LC08_L1GT_225033_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:40:17.373Z",
+      "retries": 0,
+      "id": "b840ac9d-f8f1-4e9a-8904-0f8c2358a220",
+      "executeStartTime": "2017-11-01T23:40:38.380Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "finishTime": "2017-11-01T23:40:54.129Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/033/LC08_L1GT_225033_20171024_20171024_01_RT/LC08_L1GT_225033_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:40:45.139Z",
+      "retries": 0,
+      "id": "13b154fb-3c2b-479e-814f-3f36455e2c5d",
+      "executeStartTime": "2017-11-01T23:40:46.140Z",
+      "instanceId": "i-09dec027d5bcd49f3",
+      "finishTime": "2017-11-01T23:40:54.924Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/030/LC08_L1GT_225030_20171024_20171024_01_RT/LC08_L1GT_225030_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:40:54.278Z",
+      "retries": 0,
+      "id": "604aab67-742a-422c-bca4-912f5cc42a4e",
+      "executeStartTime": "2017-11-01T23:40:54.701Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "finishTime": "2017-11-01T23:41:04.439Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/060/LC08_L1TP_225060_20171024_20171025_01_RT/LC08_L1TP_225060_20171024_20171025_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:40:00.275Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:40:54.701Z",
+      "instanceId": "i-0451424e0d48023f4",
+      "id": "5fe376a4-51a5-44b4-bba7-e6605d1ebe1b",
+      "finishTime": "2017-11-01T23:41:11.726Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/059/LC08_L1TP_225059_20171024_20171025_01_RT/LC08_L1TP_225059_20171024_20171025_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:40:13.210Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:41:05.090Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "id": "25570206-cb4d-45e1-9ceb-c8188563327f",
+      "finishTime": "2017-11-01T23:41:14.035Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/033/LC08_L1GT_225033_20171024_20171024_01_RT/LC08_L1GT_225033_20171024_20171024_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:40:48.699Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:41:16.031Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "id": "713435a0-a2b2-4e5b-9f3d-4263d9e24e34",
+      "finishTime": "2017-11-01T23:41:29.297Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/029/LC08_L1GT_225029_20171024_20171024_01_RT/LC08_L1GT_225029_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:01.379Z",
+      "retries": 0,
+      "id": "22f925b2-921d-4876-99c5-d77ce0ef3f42",
+      "executeStartTime": "2017-11-01T23:41:16.031Z",
+      "instanceId": "i-07a75ac5e5cd393ab",
+      "finishTime": "2017-11-01T23:41:30.526Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/029/LC08_L1GT_225029_20171024_20171024_01_RT/LC08_L1GT_225029_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:04.089Z",
+      "retries": 0,
+      "id": "92cbce0a-6e84-4d60-a572-6accf91e5d89",
+      "executeStartTime": "2017-11-01T23:41:35.297Z",
+      "instanceId": "i-07a75ac5e5cd393ab",
+      "finishTime": "2017-11-01T23:41:47.773Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/030/LC08_L1GT_225030_20171024_20171024_01_RT/LC08_L1GT_225030_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:01.602Z",
+      "retries": 0,
+      "id": "f7a2a954-f561-49f3-b857-b48b80626deb",
+      "executeStartTime": "2017-11-01T23:41:30.296Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "finishTime": "2017-11-01T23:41:53.522Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/027/LC08_L1GT_225027_20171024_20171024_01_RT/LC08_L1GT_225027_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:10.505Z",
+      "retries": 0,
+      "id": "61b82946-a49f-4d12-b2be-6f0394db6499",
+      "executeStartTime": "2017-11-01T23:41:56.695Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "finishTime": "2017-11-01T23:42:09.557Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/028/LC08_L1GT_225028_20171024_20171024_01_RT/LC08_L1GT_225028_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:09.714Z",
+      "retries": 0,
+      "id": "ad28fad0-5df1-419f-92ab-75aa35919ece",
+      "executeStartTime": "2017-11-01T23:41:51.691Z",
+      "instanceId": "i-07a75ac5e5cd393ab",
+      "finishTime": "2017-11-01T23:42:15.194Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/026/LC08_L1GT_225026_20171024_20171024_01_RT/LC08_L1GT_225026_20171024_20171024_01_RT_B11.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:10.669Z",
+      "retries": 0,
+      "id": "c6171435-a6c3-4afb-9452-5742d9781a51",
+      "executeStartTime": "2017-11-01T23:42:08.787Z",
+      "instanceId": "i-0e2a1e2fed325546d",
+      "finishTime": "2017-11-01T23:42:25.234Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/026/LC08_L1GT_225026_20171024_20171024_01_RT/LC08_L1GT_225026_20171024_20171024_01_RT_B10.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:15.030Z",
+      "retries": 0,
+      "id": "a03efe67-ea53-4d09-b1e1-20273408e427",
+      "executeStartTime": "2017-11-01T23:42:13.791Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "finishTime": "2017-11-01T23:42:27.219Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/011/LC08_L1TP_225011_20171024_20171024_01_RT/LC08_L1TP_225011_20171024_20171024_01_RT_B4.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:22.995Z",
+      "retries": 0,
+      "id": "eee36567-f7c3-4325-8769-b6b95bb1a6bc",
+      "executeStartTime": "2017-11-01T23:42:18.329Z",
+      "instanceId": "i-07a75ac5e5cd393ab",
+      "finishTime": "2017-11-01T23:42:31.479Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/011/LC08_L1TP_225011_20171024_20171024_01_RT/LC08_L1TP_225011_20171024_20171024_01_RT_B2.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:29.295Z",
+      "retries": 0,
+      "id": "57bec48c-72b6-41c9-b42e-d7b3904d46f9",
+      "executeStartTime": "2017-11-01T23:42:22.545Z",
+      "instanceId": "i-02ac5cf1679349747",
+      "finishTime": "2017-11-01T23:42:36.057Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/011/LC08_L1TP_225011_20171024_20171024_01_RT/LC08_L1TP_225011_20171024_20171024_01_RT_B1.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:40.888Z",
+      "retries": 0,
+      "id": "c0df4015-2c60-47ee-868e-54d85bb70733",
+      "executeStartTime": "2017-11-01T23:42:27.553Z",
+      "instanceId": "i-0604113c8837feed8",
+      "finishTime": "2017-11-01T23:42:42.397Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/011/LC08_L1TP_225011_20171024_20171024_01_RT/LC08_L1TP_225011_20171024_20171024_01_RT_B3.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:38.288Z",
+      "retries": 0,
+      "id": "dd9add96-5a56-48e5-b04e-6b11e2371263",
+      "executeStartTime": "2017-11-01T23:42:27.553Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "finishTime": "2017-11-01T23:42:44.059Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/114/LC08_L1GT_209114_20171024_20171024_01_RT/LC08_L1GT_209114_20171024_20171024_01_RT_B6.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:43.109Z",
+      "retries": 0,
+      "id": "f6dde4f5-3c1b-44ce-9281-92e280fb3b4f",
+      "executeStartTime": "2017-11-01T23:42:32.693Z",
+      "instanceId": "i-0f14edaeec5e10f3c",
+      "finishTime": "2017-11-01T23:42:46.122Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/114/LC08_L1GT_209114_20171024_20171024_01_RT/LC08_L1GT_209114_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:43.037Z",
+      "retries": 0,
+      "id": "7c2023ef-6395-4ca9-8e07-3ae9528644e9",
+      "executeStartTime": "2017-11-01T23:42:32.692Z",
+      "instanceId": "i-04b21eab0983bf1ba",
+      "finishTime": "2017-11-01T23:42:46.338Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/114/LC08_L1GT_209114_20171024_20171024_01_RT/LC08_L1GT_209114_20171024_20171024_01_RT_B4.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:42:07.786Z",
+      "retries": 0,
+      "id": "d8a84d9f-2ff7-445c-a6ac-783b27177783",
+      "executeStartTime": "2017-11-01T23:42:44.509Z",
+      "instanceId": "i-0b251885b3fcb539b",
+      "finishTime": "2017-11-01T23:42:55.458Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/225/011/LC08_L1TP_225011_20171024_20171024_01_RT/LC08_L1TP_225011_20171024_20171024_01_RT_B5.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:19.584Z",
+      "retries": 1,
+      "executeStartTime": "2017-11-01T23:42:39.506Z",
+      "instanceId": "i-0e75bc66629ebe56c",
+      "id": "a50e8100-dda9-47e9-be73-f3890607e2d9",
+      "finishTime": "2017-11-01T23:42:56.381Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/114/LC08_L1GT_209114_20171024_20171024_01_RT/LC08_L1GT_209114_20171024_20171024_01_RT_B5.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:41:45.689Z",
+      "retries": 0,
+      "id": "0c55eef8-2379-4185-9a74-941c0128fb37",
+      "executeStartTime": "2017-11-01T23:42:39.507Z",
+      "instanceId": "i-01bf3a07bf8b7132e",
+      "finishTime": "2017-11-01T23:42:57.784Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/113/LC08_L1GT_209113_20171024_20171024_01_RT/LC08_L1GT_209113_20171024_20171024_01_RT_B9.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:42:26.690Z",
+      "retries": 0,
+      "id": "d6ab3bcb-5b74-4931-96c2-c92188a67442",
+      "executeStartTime": "2017-11-01T23:42:49.511Z",
+      "instanceId": "i-0e336ea14bb3001a6",
+      "finishTime": "2017-11-01T23:43:02.832Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/114/LC08_L1GT_209114_20171024_20171024_01_RT/LC08_L1GT_209114_20171024_20171024_01_RT_B2.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:42:17.328Z",
+      "retries": 0,
+      "id": "706dd1ed-7a6e-46d8-909e-efeb86dc5091",
+      "executeStartTime": "2017-11-01T23:42:49.510Z",
+      "instanceId": "i-0f14edaeec5e10f3c",
+      "finishTime": "2017-11-01T23:43:03.690Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/113/LC08_L1GT_209113_20171024_20171024_01_RT/LC08_L1GT_209113_20171024_20171024_01_RT_B4.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:42:33.505Z",
+      "retries": 0,
+      "id": "11c0b143-b7ce-4843-a3bc-536a2fc80f5c",
+      "executeStartTime": "2017-11-01T23:42:49.511Z",
+      "instanceId": "i-085308490e32b8b56",
+      "finishTime": "2017-11-01T23:43:05.154Z"
+    },
+    {
+      "args": {
+        "source": "https://landsat-pds.s3.amazonaws.com/c1/L8/209/114/LC08_L1GT_209114_20171024_20171024_01_RT/LC08_L1GT_209114_20171024_20171024_01_RT_B1.TIF",
+        "tasks": [
+          [
+            "scale",
+            [
+              25
+            ]
+          ],
+          [
+            "rotate",
+            [
+              90
+            ]
+          ]
+        ]
+      },
+      "arrivalTime": "2017-11-01T23:42:21.544Z",
+      "retries": 0,
+      "id": "a09b00aa-952a-4cb9-85fc-f75855d4efe8",
+      "executeStartTime": "2017-11-01T23:42:49.510Z",
+      "instanceId": "i-0dd297998314dd6c5",
+      "finishTime": "2017-11-01T23:43:05.406Z"
+    }
+  ],
+  "terminatedInstances": [
+    {
+      "ipAddress": "172.31.48.42",
+      "startTime": "2017-11-01T23:31:53.000Z",
+      "readyTime": "2017-11-01T23:32:33.819Z",
+      "scheduledForTermination": false,
+      "id": "i-0ba451f6e580a174f",
+      "terminatedTime": "2017-11-01T23:33:30.820Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.50.141",
+      "startTime": "2017-11-01T23:32:37.000Z",
+      "readyTime": "2017-11-01T23:33:19.892Z",
+      "id": "i-00169bc55c4b2112a",
+      "terminatedTime": "2017-11-01T23:33:31.277Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.55.225",
+      "startTime": "2017-11-01T23:32:36.000Z",
+      "readyTime": "2017-11-01T23:33:19.897Z",
+      "id": "i-01be58857455e285f",
+      "terminatedTime": "2017-11-01T23:33:51.352Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.62.125",
+      "startTime": "2017-11-01T23:32:29.000Z",
+      "readyTime": "2017-11-01T23:33:09.207Z",
+      "id": "i-083692959c56fc58a",
+      "terminatedTime": "2017-11-01T23:33:54.988Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.58.87",
+      "startTime": "2017-11-01T23:32:27.000Z",
+      "readyTime": "2017-11-01T23:33:04.445Z",
+      "scheduledForTermination": false,
+      "id": "i-08f76645da5c588d8",
+      "terminatedTime": "2017-11-01T23:34:02.068Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.55.8",
+      "startTime": "2017-11-01T23:32:49.000Z",
+      "readyTime": "2017-11-01T23:33:33.303Z",
+      "id": "i-03d9dc071bf1b91ee",
+      "terminatedTime": "2017-11-01T23:34:03.494Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.49.140",
+      "startTime": "2017-11-01T23:32:56.000Z",
+      "readyTime": "2017-11-01T23:33:42.890Z",
+      "id": "i-0aee7fb247107c212",
+      "terminatedTime": "2017-11-01T23:34:07.192Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.52.202",
+      "startTime": "2017-11-01T23:33:13.000Z",
+      "readyTime": "2017-11-01T23:33:54.777Z",
+      "id": "i-0692cca30feefcc4d",
+      "terminatedTime": "2017-11-01T23:34:09.636Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.55.80",
+      "startTime": "2017-11-01T23:33:00.000Z",
+      "readyTime": "2017-11-01T23:33:45.660Z",
+      "id": "i-04ff8a90c19b8667c",
+      "terminatedTime": "2017-11-01T23:34:10.699Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.51.151",
+      "startTime": "2017-11-01T23:32:42.000Z",
+      "readyTime": "2017-11-01T23:33:23.916Z",
+      "id": "i-042f6a898e1689a8d",
+      "terminatedTime": "2017-11-01T23:34:13.153Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.61.111",
+      "startTime": "2017-11-01T23:32:47.000Z",
+      "readyTime": "2017-11-01T23:33:35.495Z",
+      "id": "i-084648ec3de8c7ac1",
+      "terminatedTime": "2017-11-01T23:34:17.613Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.59.164",
+      "startTime": "2017-11-01T23:32:31.000Z",
+      "readyTime": "2017-11-01T23:33:18.751Z",
+      "id": "i-06ce7cb9a6e6672f3",
+      "terminatedTime": "2017-11-01T23:34:22.615Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.61.184",
+      "startTime": "2017-11-01T23:32:54.000Z",
+      "readyTime": "2017-11-01T23:33:35.356Z",
+      "id": "i-011d28c04060370da",
+      "terminatedTime": "2017-11-01T23:34:32.767Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.55.142",
+      "startTime": "2017-11-01T23:32:54.000Z",
+      "readyTime": "2017-11-01T23:33:41.449Z",
+      "id": "i-028a5b23d8bb5a1a6",
+      "terminatedTime": "2017-11-01T23:34:48.392Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.50.82",
+      "startTime": "2017-11-01T23:35:03.000Z",
+      "readyTime": "2017-11-01T23:35:43.961Z",
+      "id": "i-0951dce2930a0afdc",
+      "terminatedTime": "2017-11-01T23:35:54.166Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.61.93",
+      "startTime": "2017-11-01T23:33:08.000Z",
+      "readyTime": "2017-11-01T23:33:44.132Z",
+      "scheduledForTermination": false,
+      "id": "i-068a479037dc32cf6",
+      "terminatedTime": "2017-11-01T23:36:22.060Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.53.21",
+      "startTime": "2017-11-01T23:34:55.000Z",
+      "readyTime": "2017-11-01T23:35:46.122Z",
+      "scheduledForTermination": false,
+      "id": "i-0e0fc3362c22949af",
+      "terminatedTime": "2017-11-01T23:36:27.338Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.49.255",
+      "startTime": "2017-11-01T23:35:35.000Z",
+      "readyTime": "2017-11-01T23:36:18.393Z",
+      "id": "i-05b47ea76adfc327f",
+      "terminatedTime": "2017-11-01T23:36:29.366Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.51.112",
+      "startTime": "2017-11-01T23:35:13.000Z",
+      "readyTime": "2017-11-01T23:35:54.066Z",
+      "scheduledForTermination": false,
+      "id": "i-0455527028f2d2643",
+      "terminatedTime": "2017-11-01T23:36:34.367Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.56.143",
+      "startTime": "2017-11-01T23:35:21.000Z",
+      "readyTime": "2017-11-01T23:36:05.943Z",
+      "id": "i-0286c94f8d56785c7",
+      "terminatedTime": "2017-11-01T23:36:34.946Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.57.84",
+      "startTime": "2017-11-01T23:35:01.000Z",
+      "readyTime": "2017-11-01T23:35:42.614Z",
+      "id": "i-0978db48b97804c8e",
+      "terminatedTime": "2017-11-01T23:36:38.940Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.56.58",
+      "startTime": "2017-11-01T23:35:08.000Z",
+      "readyTime": "2017-11-01T23:35:53.068Z",
+      "id": "i-075944913f1328858",
+      "terminatedTime": "2017-11-01T23:36:43.050Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.48.33",
+      "startTime": "2017-11-01T23:35:32.000Z",
+      "readyTime": "2017-11-01T23:36:15.522Z",
+      "id": "i-0b4494080b0130f5d",
+      "terminatedTime": "2017-11-01T23:36:44.371Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.52.39",
+      "startTime": "2017-11-01T23:34:53.000Z",
+      "readyTime": "2017-11-01T23:35:36.715Z",
+      "scheduledForTermination": false,
+      "id": "i-0911957a0e49ecf93",
+      "terminatedTime": "2017-11-01T23:36:47.227Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.58.53",
+      "startTime": "2017-11-01T23:35:39.000Z",
+      "readyTime": "2017-11-01T23:36:23.243Z",
+      "id": "i-01925b605f1f4c250",
+      "terminatedTime": "2017-11-01T23:36:49.370Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.60.97",
+      "startTime": "2017-11-01T23:35:17.000Z",
+      "readyTime": "2017-11-01T23:35:58.474Z",
+      "scheduledForTermination": false,
+      "id": "i-00641bf9d9e9caba9",
+      "terminatedTime": "2017-11-01T23:37:02.925Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.57.146",
+      "startTime": "2017-11-01T23:35:29.000Z",
+      "readyTime": "2017-11-01T23:36:10.417Z",
+      "id": "i-058c030cbc234eb1e",
+      "terminatedTime": "2017-11-01T23:37:04.929Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.58.72",
+      "startTime": "2017-11-01T23:35:41.000Z",
+      "readyTime": "2017-11-01T23:36:31.317Z",
+      "id": "i-018b776f9e805377e",
+      "terminatedTime": "2017-11-01T23:37:09.931Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.52.204",
+      "startTime": "2017-11-01T23:39:33.000Z",
+      "readyTime": "2017-11-01T23:40:07.504Z",
+      "id": "i-0f88b48b9b4f96d4c",
+      "terminatedTime": "2017-11-01T23:40:18.206Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.62.228",
+      "startTime": "2017-11-01T23:39:19.000Z",
+      "readyTime": "2017-11-01T23:40:00.707Z",
+      "id": "i-0992649d7f00e8d5d",
+      "terminatedTime": "2017-11-01T23:40:25.450Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.60.125",
+      "startTime": "2017-11-01T23:39:12.000Z",
+      "readyTime": "2017-11-01T23:39:55.070Z",
+      "id": "i-096dca30d2d362399",
+      "terminatedTime": "2017-11-01T23:40:27.136Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.52.42",
+      "startTime": "2017-11-01T23:39:28.000Z",
+      "readyTime": "2017-11-01T23:40:12.511Z",
+      "id": "i-050fef4c749eace17",
+      "terminatedTime": "2017-11-01T23:40:36.711Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.62.31",
+      "startTime": "2017-11-01T23:39:34.000Z",
+      "readyTime": "2017-11-01T23:40:28.559Z",
+      "id": "i-06872068e21808c4f",
+      "terminatedTime": "2017-11-01T23:40:39.380Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.51.37",
+      "startTime": "2017-11-01T23:35:26.000Z",
+      "readyTime": "2017-11-01T23:36:07.981Z",
+      "scheduledForTermination": false,
+      "id": "i-069950a496548e5d9",
+      "terminatedTime": "2017-11-01T23:40:42.410Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.59.91",
+      "startTime": "2017-11-01T23:39:23.000Z",
+      "readyTime": "2017-11-01T23:40:06.299Z",
+      "id": "i-0585e67be2175f2e3",
+      "terminatedTime": "2017-11-01T23:40:47.750Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.55.156",
+      "startTime": "2017-11-01T23:39:35.000Z",
+      "readyTime": "2017-11-01T23:40:20.852Z",
+      "id": "i-0ae97e01280b1e21b",
+      "terminatedTime": "2017-11-01T23:40:50.985Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.51.224",
+      "startTime": "2017-11-01T23:39:08.000Z",
+      "readyTime": "2017-11-01T23:39:58.222Z",
+      "id": "i-07deda1d4898b3bf2",
+      "terminatedTime": "2017-11-01T23:40:53.439Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.59.254",
+      "startTime": "2017-11-01T23:39:44.000Z",
+      "readyTime": "2017-11-01T23:40:28.808Z",
+      "id": "i-00e5786435f9b8d3c",
+      "terminatedTime": "2017-11-01T23:40:57.604Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.60.249",
+      "startTime": "2017-11-01T23:39:58.000Z",
+      "readyTime": "2017-11-01T23:40:41.370Z",
+      "id": "i-09dec027d5bcd49f3",
+      "terminatedTime": "2017-11-01T23:41:05.703Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.54.190",
+      "startTime": "2017-11-01T23:39:52.000Z",
+      "readyTime": "2017-11-01T23:40:32.740Z",
+      "id": "i-0bd27e019a5b9364d",
+      "terminatedTime": "2017-11-01T23:41:09.381Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.63.106",
+      "startTime": "2017-11-01T23:39:40.000Z",
+      "readyTime": "2017-11-01T23:40:25.862Z",
+      "id": "i-0451424e0d48023f4",
+      "terminatedTime": "2017-11-01T23:41:22.727Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.61.26",
+      "startTime": "2017-11-01T23:41:24.000Z",
+      "readyTime": "2017-11-01T23:42:08.052Z",
+      "id": "i-0e2a1e2fed325546d",
+      "terminatedTime": "2017-11-01T23:42:36.237Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.57.88",
+      "startTime": "2017-11-01T23:39:54.000Z",
+      "readyTime": "2017-11-01T23:40:42.555Z",
+      "scheduledForTermination": false,
+      "id": "i-07a75ac5e5cd393ab",
+      "terminatedTime": "2017-11-01T23:42:42.480Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.62.2",
+      "startTime": "2017-11-01T23:41:40.000Z",
+      "readyTime": "2017-11-01T23:42:21.453Z",
+      "id": "i-02ac5cf1679349747",
+      "terminatedTime": "2017-11-01T23:42:47.058Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.59.42",
+      "startTime": "2017-11-01T23:41:42.000Z",
+      "readyTime": "2017-11-01T23:42:26.804Z",
+      "id": "i-0604113c8837feed8",
+      "terminatedTime": "2017-11-01T23:42:53.401Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.49.209",
+      "startTime": "2017-11-01T23:41:47.000Z",
+      "readyTime": "2017-11-01T23:42:30.708Z",
+      "id": "i-04b21eab0983bf1ba",
+      "terminatedTime": "2017-11-01T23:42:57.339Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.61.96",
+      "startTime": "2017-11-01T23:39:49.000Z",
+      "readyTime": "2017-11-01T23:40:35.779Z",
+      "scheduledForTermination": false,
+      "id": "i-0b251885b3fcb539b",
+      "terminatedTime": "2017-11-01T23:43:05.513Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.62.90",
+      "startTime": "2017-11-01T23:41:29.000Z",
+      "readyTime": "2017-11-01T23:42:13.144Z",
+      "id": "i-0e75bc66629ebe56c",
+      "terminatedTime": "2017-11-01T23:43:07.384Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.62.96",
+      "startTime": "2017-11-01T23:41:54.000Z",
+      "readyTime": "2017-11-01T23:42:36.448Z",
+      "id": "i-01bf3a07bf8b7132e",
+      "terminatedTime": "2017-11-01T23:43:08.786Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.57.118",
+      "startTime": "2017-11-01T23:41:44.000Z",
+      "readyTime": "2017-11-01T23:42:31.071Z",
+      "id": "i-0f14edaeec5e10f3c",
+      "terminatedTime": "2017-11-01T23:43:13.787Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.58.115",
+      "startTime": "2017-11-01T23:41:58.000Z",
+      "readyTime": "2017-11-01T23:42:46.976Z",
+      "id": "i-0e336ea14bb3001a6",
+      "terminatedTime": "2017-11-01T23:43:14.693Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.62.154",
+      "startTime": "2017-11-01T23:42:03.000Z",
+      "readyTime": "2017-11-01T23:42:46.734Z",
+      "id": "i-0dd297998314dd6c5",
+      "terminatedTime": "2017-11-01T23:43:16.411Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.48.37",
+      "startTime": "2017-11-01T23:42:08.000Z",
+      "readyTime": "2017-11-01T23:42:48.735Z",
+      "id": "i-085308490e32b8b56",
+      "terminatedTime": "2017-11-01T23:43:21.417Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.48.238",
+      "startTime": "2017-11-01T23:42:20.000Z",
+      "readyTime": "2017-11-01T23:43:01.511Z",
+      "id": "i-0bdca9ac24ed1dddc",
+      "terminatedTime": "2017-11-01T23:43:26.418Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.58.179",
+      "startTime": "2017-11-01T23:42:15.000Z",
+      "readyTime": "2017-11-01T23:43:02.736Z",
+      "id": "i-07907fd67f2b652f3",
+      "terminatedTime": "2017-11-01T23:43:31.421Z",
+      "normalTermination": true
+    },
+    {
+      "ipAddress": "172.31.63.144",
+      "startTime": "2017-11-01T23:42:24.000Z",
+      "readyTime": "2017-11-01T23:43:03.588Z",
+      "id": "i-06d3cabb6ad91445f",
+      "terminatedTime": "2017-11-01T23:43:36.422Z",
+      "normalTermination": true
+    }
+  ],
+  "uptime": 837623
+}
